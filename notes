@@ -1,0 +1,29 @@
+3 Flavours:
+  1. espresso:
+    50 ml water
+    18g coffee
+    price : 1.5$
+
+  2. latte:
+    200ml water
+    24g coffee
+    150ml Milk
+    price : 2.5$
+
+  3. Cappuccino:
+    250ml water
+    24g coffee
+    100ml Milk
+    price : 3.0$
+
+Coffee Machine Resources :
+  1. 300ml Water
+  2. 200ml Milk
+  3. 100g Coffee
+
+Coffee Machine Coins :
+  1. 1 cent = 0.01$
+  2. 5 cents = 0.05$ 
+  3. 10 cents = 0.1$
+  4. 25 cents = 0.25$
+
